@@ -1,4 +1,4 @@
-## Spring Security OAuth with SSO - Working PoC
+## Spring Security OAuth with SSO using Keycloak
 
 ### Relevant information:
 
