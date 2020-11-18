@@ -1,4 +1,4 @@
-## Spring Security OAuth - Dynamic Client Registration
+## Spring Security OAuth with SSO - Working PoC
 
 ### Relevant information:
 
